@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+.mainDiv{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to right, #efc78f 0%, #fcb69f 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box1{
+    width: 1100px;
+    height: 600px;
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #f1f7fb 100%);
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+}
+.box2{
+    width: 700px;
+    height: 550px;
+    background-color: white;
+    margin: 30px;
+    border: 2px solid  rgb(219, 219, 250);
+    border-radius: 25px;
+    display: flex;
+}
+.box3{
+    width: 350px;
+    height: 500px;
+    padding: 20px;
+
+}
+
+.imgcar{
+    
+    width: 280px;
+    position: relative;
+    margin: 2%;
+}
+.fastp {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+.num562{
+    font-size: 1.5rem;
+    margin: 10px;
+
+}
+.secondp{
+font-size: 1.5rem;
+margin: 10px;
+}
+.num406{
+    font-size: 1.5rem;
+    margin: 10px;
+}
+.thrid{
+    font-size: 1.5rem;
+    margin: 10px; 
+}
+.num3{
+    font-size: 1.5rem;
+    margin: 10px;
+}
+.box4{
+   
+  padding: 20px;
+    margin: 45px;
+}
+.r8{
+    color: #e99d32;
+}
+.bold-text {
+    font-weight: bold;
+    font-size: 2rem;
+}
+.pr1{
+    margin: 10px;
+}
+.prtext1{
+    font-size: 1.25rem;
+}
+.prtext2{
+    font-size: 1.25rem;
+}
+.booknow{
+    width: 220px;
+    height: 55px;
+    background-color: white;
+    border: 2px solid rgb(225, 224, 224);
+    border-radius: 10px;
+    margin: 10px;
+    display: flex;
+    text-align: center;
+
+}
+.book{
+    width: 110px;
+  height: 52px;
+  background-color: rgb(248, 167, 17);
+  border-radius: 10px; 
+   display: flex;
+  align-items: center;
+  justify-content: end;
+  color: #e5e3b9;
+}
+
+.now{
+    width: 117px;
+    height: 52px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  color: rgb(60, 57, 57);
+  font-size: large;
+  
+ 
+
+}
